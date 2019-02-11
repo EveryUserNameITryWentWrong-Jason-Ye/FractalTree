@@ -4,7 +4,7 @@ private double branchAngel = 0.3;
 public void setup() 
 {   
 	size(640,480); 
-  frameRate(10);
+  //frameRate(10);
 } 
 public void draw() 
 {   
